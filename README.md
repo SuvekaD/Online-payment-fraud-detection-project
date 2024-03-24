@@ -4,7 +4,6 @@ Online payment fraud detection is critical for safeguarding customers, businesse
 Implementing advanced fraud detection techniques, such as machine learning algorithms and behavioral analytics, enables businesses to stay ahead of evolving fraud tactics and adapt to new threats.
 
 # DEMO VIDEO:
-https://github.com/SuvekaD/Online-payment-fraud-detection-project/assets/160578580/459918ad-cadb-4aba-b8a7-c34edb43fcbf
 
 ## Objective
 To identify fraudulent and non-fraudulent payments.
@@ -38,4 +37,4 @@ I used logistic regression,svc,XGBoost for predicting fraudulent transaction.
 ### Evaluation metrics
 This model was evaluated with metrics accuracy().
 ## Result
-- The best performance was achieved using logistic regression and XGboost with an impressive accuracy rate of around 99%.
+- The best performance was achieved using svc with accuracy rate of around 99%.
